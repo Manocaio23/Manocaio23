@@ -1,16 +1,41 @@
-### Hi there 👋
+### Olá! Sou Caio Augusto e esse é meu perfil no Github 👋
 
-<!--
-**Manocaio23/Manocaio23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contatos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-augusto-7b9565145/)
+
+
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Mano_Caio#8827/)
+
+
+
+[![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](caio18augusto@outlook.com)
+
+
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Manocaio23&show_icons=true&theme=cobalt)
+
+
+
+### Linguagens
+
+<div    style="display: inline_block"><br/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### DataBases
+
+<img aling="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+" />
+<img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+" />
+<img aling="center" alt="html5" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+
+### 
+
+
+
+
+</div>
